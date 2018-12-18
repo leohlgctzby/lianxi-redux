@@ -20,7 +20,6 @@ export default (state = defaultState, action) => {
   if(action.type === LIST_ITEM_DELETE){
     const newState = JSON.parse(JSON.stringify(state));
     newState.list.splice(action.index, 1);
-    console.log(action.index);
     return newState;
   }
 
