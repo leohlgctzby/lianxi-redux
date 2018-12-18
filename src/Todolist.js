@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import "antd/dist/antd.css";
-import { Button, Input, List } from "antd";
 import store from "./store";
 import { getHandleClick, getHandleChange,getHandleItemDelete } from './store/actionCreators'
+import TodoListUI from './TodoListUI'
 
 export default class Todolist extends Component {
   constructor(props) {
@@ -13,25 +13,13 @@ export default class Todolist extends Component {
   }
   render() {
     return (
-      <div style={{ marginTop: "10px", marginLeft: "10px" }}>
-        <div>
-          <Input
-            onChange={this.handleChange}
-            placeholder="Todolist"
-            value={this.state.inputValue}
-            style={{ width: "300px", marginRight: "10px" }}
-          />
-          <Button type="primary" onClick={this.handleClick}>提交</Button>
-        </div>
-
-        <List
-          style={{ width: "300px", marginTop: "10px" }}
-          bordered
-          dataSource={this.state.list}
-          renderItem={(item, index) => <List.Item onClick={this.handleItemDelete.bind(this, index)} >{item}</List.Item>}
-        />
-      </div>
-    );
+    <TodoListUI 
+    inputValue={this.state.inputValue}
+    list={this.state.list}
+    handleChange={this.handleChange}
+    handleClick={this.handleClick}
+    handleItemDelete={this.handleItemDelete}
+    />)  
   }
 
   handleClick = () => {
@@ -44,7 +32,7 @@ export default class Todolist extends Component {
   }
 
   handleChange = (e) => {
-    const action = getHandleChange(e);
+    const action = getHandleChange(e.target.value);
     store.dispatch(action);
     console.log(e.target.value);
   }

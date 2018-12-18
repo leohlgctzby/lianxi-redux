@@ -6,9 +6,9 @@ import {
 
 export const getHandleClick = () => ({ type: LIST_ADD_ITEM });
 
-export const getHandleChange = e => ({
+export const getHandleChange = value => ({
   type: CHANGE_INPUT_VALUE,
-  value: e.target.value
+  value
 });
 
 export const getHandleItemDelete = (index) =>({
