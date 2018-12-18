@@ -1,7 +1,8 @@
 import {
   CHANGE_INPUT_VALUE,
   LIST_ADD_ITEM,
-  LIST_ITEM_DELETE
+  LIST_ITEM_DELETE,
+  INIT_LIST_ACTION
 } from "./actionTypes";
 
 export const getHandleClick = () => ({ type: LIST_ADD_ITEM });
@@ -16,4 +17,7 @@ export const getHandleItemDelete = (index) =>({
     index
 });
 
-
+export const initListAction = (data) =>({
+  type: INIT_LIST_ACTION,
+  data
+});
