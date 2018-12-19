@@ -1,5 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
+import { ADD_ITEM, DELETE_ITEM, CHANGE_INPUT_VALUE } from './store/actionTypes'
 
 const TodoList = (props) => {
     const { inputValue, handleDelete, changeInputValue, handleClick, list } = props
@@ -35,7 +36,7 @@ const mapDispatchToProps = (dispatch) => {
   return {
     changeInputValue(e){
       const action = {
-        type: "change_input_value",
+        type: CHANGE_INPUT_VALUE,
         value: e.target.value
       }
       dispatch(action);
@@ -43,14 +44,14 @@ const mapDispatchToProps = (dispatch) => {
 
     handleClick(){
       const action = {
-        type: "add_item",
+        type: ADD_ITEM,
       }
       dispatch(action);
     },
 
     handleDelete(index){
       const action = {
-        type: "delete_item",
+        type: DELETE_ITEM,
         index
       }
       dispatch(action);
