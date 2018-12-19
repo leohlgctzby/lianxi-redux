@@ -2,7 +2,7 @@ import React from "react";
 import { connect } from "react-redux";
 
 const TodoList = (props) => {
-    const { inputValue, changeInputValue, handleClick, list } = props
+    const { inputValue, handleDelete, changeInputValue, handleClick, list } = props
     return (
       <div>
         <div>
@@ -16,7 +16,7 @@ const TodoList = (props) => {
         <ul>
           {
             list.map((item,index) => {
-              return <li key={index}>{item}</li>
+              return <li onClick={() => {handleDelete(index)}} key={index}>{item}</li>
             })
           } 
         </ul>
@@ -44,6 +44,14 @@ const mapDispatchToProps = (dispatch) => {
     handleClick(){
       const action = {
         type: "add_item",
+      }
+      dispatch(action);
+    },
+
+    handleDelete(index){
+      const action = {
+        type: "delete_item",
+        index
       }
       dispatch(action);
     }

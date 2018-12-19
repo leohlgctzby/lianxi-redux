@@ -18,5 +18,12 @@ export default (state = defaultState, action) => {
     console.log(newState);
     return newState;
   }
+
+  if(action.type === "delete_item"){
+    const newState = JSON.parse(JSON.stringify(state));
+    newState.list.splice(action.index, 1);
+    console.log(newState);
+    return newState;
+  }
   return state;
 }
