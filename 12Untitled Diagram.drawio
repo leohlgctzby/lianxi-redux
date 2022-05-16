@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T03:48:51.322Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="LnwoQzGzhiGTiM-hXx1y" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T04:16:50.836Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="rdQpHI2XWOY4iCkg2ucP" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1875" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1715" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -42,20 +42,17 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-50" y="1810" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qz1d5UV-6l3Owr212qKA-0" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="180" as="sourcePoint" />
-            <mxPoint x="270" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qz1d5UV-6l3Owr212qKA-2" value="大田数据集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qz1d5UV-6l3Owr212qKA-3" value="&lt;div&gt;原始公共数据集&lt;/div&gt;&lt;div&gt;Plant Village&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qz1d5UV-6l3Owr212qKA-4" target="qz1d5UV-6l3Owr212qKA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qz1d5UV-6l3Owr212qKA-4" target="qz1d5UV-6l3Owr212qKA-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qz1d5UV-6l3Owr212qKA-4" value="&lt;div&gt;加入大田数&lt;/div&gt;&lt;div&gt;据扩充的公&lt;/div&gt;&lt;div&gt;共数据集3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="130" width="370" height="80" as="geometry" />
@@ -72,6 +69,66 @@
             <mxPoint x="350" y="145" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-8" value="&lt;div&gt;进行模型自身的消融实验，分别加入ghostnet和se注意力机制，对比每个模块对最终模型性能的贡献，分析对比实验结果&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="255" width="195" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-9" value="&lt;div&gt;进行不同模型的横向消融实验，分析对比实验结果&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="255" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-11" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164.5" y="110" as="sourcePoint" />
+            <mxPoint x="164.5" y="145" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="164.5" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-12" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="360" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-14" value="&lt;div&gt;泛化性验证&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="360" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-15" value="&lt;div&gt;对比分析各个模型的查全率、查准率、平均识别准确率和loss收敛情况&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="360" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-16" value="未经过背景分割的大田数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="390" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-17" value="结论分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="490" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-27" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="325" as="sourcePoint" />
+            <mxPoint x="80" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80.5" y="345" />
+              <mxPoint x="80.5" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-28" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="325" as="sourcePoint" />
+            <mxPoint x="200" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="340" />
+              <mxPoint x="200" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qz1d5UV-6l3Owr212qKA-29" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374.5" y="325" as="sourcePoint" />
+            <mxPoint x="374.5" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="374.5" y="345" />
+              <mxPoint x="374.5" y="345" />
             </Array>
           </mxGeometry>
         </mxCell>
