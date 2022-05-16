@@ -1,131 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T02:50:52.257Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="EF_YO1EPuOFwCVi5StAL" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T02:54:37.811Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="iqa7rqmwzff8KTnByogf" version="14.8.0" type="github">
   <diagram id="tmGPoq_MCGh_v181JqAP" name="Page-1">
     <mxGraphModel dx="596" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yKKix5dLRKsVM_cUCswI-7" value="&lt;b&gt;运用大数据技术解决黑龙江省玉米加工企业成本问题的机理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-7" value="&lt;b&gt;运用大数据技术解决黑龙江省玉米加工企业成本问题的机理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="1">
           <mxGeometry x="160" y="460" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="290" as="sourcePoint" />
             <mxPoint x="150" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="250" as="sourcePoint" />
             <mxPoint x="150" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="yKKix5dLRKsVM_cUCswI-7" target="yKKix5dLRKsVM_cUCswI-7">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;" edge="1" parent="1" source="yKKix5dLRKsVM_cUCswI-7" target="yKKix5dLRKsVM_cUCswI-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="yKKix5dLRKsVM_cUCswI-7" target="yKKix5dLRKsVM_cUCswI-7">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;" edge="1" parent="1" source="yKKix5dLRKsVM_cUCswI-7" target="yKKix5dLRKsVM_cUCswI-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-16" value="&lt;b&gt;基于大数据的玉米加工企业成本管理优化路径设计&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-16" value="&lt;b&gt;基于大数据的玉米加工企业成本管理优化路径设计&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="530" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-19" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="yKKix5dLRKsVM_cUCswI-7" target="yKKix5dLRKsVM_cUCswI-7">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-19" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="yKKix5dLRKsVM_cUCswI-7" target="yKKix5dLRKsVM_cUCswI-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-21" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-21" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="290" as="sourcePoint" />
             <mxPoint x="150" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-23" value="&lt;b&gt;功能优化&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-23" value="&lt;b&gt;功能优化&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="220" y="590" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-24" value="&lt;b&gt;方法优化&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-24" value="&lt;b&gt;方法优化&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="330" y="590" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-25" value="&lt;b&gt;基于大数据的玉米加工企业成本管理优化应用&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-25" value="&lt;b&gt;基于大数据的玉米加工企业成本管理优化应用&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="640" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-26" value="&lt;b&gt;企业应用实践&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-26" value="&lt;b&gt;企业应用实践&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="150" y="700" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-27" value="&lt;b&gt;成本管理优化平台构建&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-27" value="&lt;b&gt;成本管理优化平台构建&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="280" y="700" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-28" value="&lt;b&gt;经济效果预期&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-28" value="&lt;b&gt;经济效果预期&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="410" y="700" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-29" value="&lt;b&gt;大数据技术促进黑龙江省玉米加工企业成本管理优化对策研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-29" value="&lt;b&gt;大数据技术促进黑龙江省玉米加工企业成本管理优化对策研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="1">
           <mxGeometry x="160" y="750" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-30" value="&lt;b&gt;大数据技术促进黑龙江省玉米加工企业成本管理效率提升机路径优化研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-30" value="&lt;b&gt;大数据技术促进黑龙江省玉米加工企业成本管理效率提升及路径优化研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;" vertex="1" parent="1">
           <mxGeometry x="160" y="800" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-32" value="&lt;b&gt;大数据技术理论&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-32" value="&lt;b&gt;大数据技术理论&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="140" y="390" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-33" value="&lt;b&gt;黑龙江省玉米加工产业经济理论&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-33" value="&lt;b&gt;黑龙江省玉米加工产业经济理论&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="275" y="390" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-34" value="&lt;b&gt;成本管理优化效应理论&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-34" value="&lt;b&gt;成本管理优化效应理论&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="410" y="390" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-36" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-36" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="330" as="sourcePoint" />
             <mxPoint x="310" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-39" value="&lt;b&gt;理论研究基础&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-39" value="&lt;b&gt;理论研究基础&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="10" y="390" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-40" value="&lt;b&gt;关联机理研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-40" value="&lt;b&gt;关联机理研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="10" y="465" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-41" value="&lt;b&gt;实证分析&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-41" value="&lt;b&gt;实证分析&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="10" y="540" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-42" value="&lt;b&gt;应用实践&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-42" value="&lt;b&gt;应用实践&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="10" y="640" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-43" value="&lt;b&gt;对策研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-43" value="&lt;b&gt;对策研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="10" y="780" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-49" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-49" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rounded=0;sketch=0;strokeColor=#457B9D;" vertex="1" parent="1">
           <mxGeometry x="180" y="420" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-51" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-51" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="300" y="440" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-53" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="yKKix5dLRKsVM_cUCswI-51" target="yKKix5dLRKsVM_cUCswI-51">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-53" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="yKKix5dLRKsVM_cUCswI-51" target="yKKix5dLRKsVM_cUCswI-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-58" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-58" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="300" y="500" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-60" value="" style="line;strokeWidth=2;direction=south;html=1;rounded=0;sketch=0;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-60" value="" style="line;strokeWidth=2;direction=south;html=1;rounded=0;sketch=0;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="260" y="570" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-62" value="" style="line;strokeWidth=2;direction=south;html=1;rounded=0;sketch=0;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-62" value="" style="line;strokeWidth=2;direction=south;html=1;rounded=0;sketch=0;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="370" y="570" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-64" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-64" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="300" y="620" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-67" value="" style="line;strokeWidth=2;direction=south;html=1;rounded=0;sketch=0;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-67" value="" style="line;strokeWidth=2;direction=south;html=1;rounded=0;sketch=0;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="200" y="680" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-68" value="" style="line;strokeWidth=2;direction=south;html=1;rounded=0;sketch=0;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-68" value="" style="line;strokeWidth=2;direction=south;html=1;rounded=0;sketch=0;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-69" value="" style="line;strokeWidth=2;direction=south;html=1;rounded=0;sketch=0;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-69" value="" style="line;strokeWidth=2;direction=south;html=1;rounded=0;sketch=0;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="440" y="680" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-73" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;总体步骤&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-73" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;总体步骤&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="360" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yKKix5dLRKsVM_cUCswI-74" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;研究思路&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="yKKix5dLRKsVM_cUCswI-74" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;研究思路&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="275" y="360" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yKKix5dLRKsVM_cUCswI-75" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="305" y="730" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
